@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I’m a final-year Ph.D. candidate at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). I received the B.E. degree in computer science and technology from Wuhan University of Technology, Wuhan, China, in 2012 and the M.E. degree in computer science and technology from the University of Science and Technology of China, Hefei, China, in 2015. My research interests include large language models (LLMs), device–edge–cloud collaboration, and vehicular ad hoc networks (VANETs). I am fortunate to be advised by [Prof. Xinming Zhang](https://mmistakes.github.io/minimal-mistakes/).
+I’m a final-year Ph.D. candidate at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). I received the B.E. degree in computer science and technology from Wuhan University of Technology, Wuhan, China, in 2012 and the M.E. degree in computer science and technology from the University of Science and Technology of China, Hefei, China, in 2015. Then, I worked at Baidu as a Senior Algorithm Engineer from 2020 to 2024. I served as a Senior Algorithm Engineer at Meituan, focusing on advertising algorithms. Now, My research interests include large language models (LLMs), device–edge–cloud collaboration, and vehicular ad hoc networks (VANETs). I am fortunate to be advised by [Prof. Xinming Zhang](http://staff.ustc.edu.cn/~xinming/).
+
+
 
 # Researches
 - ***Cao X L***, Yan L, Zhang X. A street-centric opportunistic routing protocol based on link correlation for urban VANETs[J]. IEEE Transactions on Mobile Computing, 2015, 15(7): 1586-1599.
