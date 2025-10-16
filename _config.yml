@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Xulei Cao"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : #
   location         : "Zhejiang, China"
-  employer         : "University of Science and Technology of China (USTC)"
+  employer         : "USTC"
   uri              : # URL
   email            : "caoxulei@mail.ustc.edu.cn" 
 
