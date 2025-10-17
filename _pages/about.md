@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a final-year Ph.D. candidate at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). I received the B.E. degree in computer science and technology from Wuhan University of Technology, Wuhan, China, in 2012 and the M.E. degree in computer science and technology from the University of Science and Technology of China, Hefei, China, in 2015. Then, I worked at Baidu as a Senior Algorithm Engineer from 2020 to 2024. I served as a Senior Algorithm Engineer at Meituan, focusing on advertising algorithms. Now, My research interests include large language models (LLMs), device–edge–cloud collaboration, and vehicular ad hoc networks (VANETs). I am fortunate to be advised by [Prof. Xinming Zhang](http://staff.ustc.edu.cn/~xinming/).
+I’m a final-year Ph.D. candidate at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). I received my B.E. in Computer Science and Technology from Wuhan University of Technology in 2012 and my M.E. from USTC in 2015. I worked as a Senior Algorithm Engineer at Baidu (2015–2020) and at Meituan (2020–2024) , where I focused on advertising algorithms. My research interests include large language models (LLMs), device–edge–cloud collaboration, and vehicular ad hoc networks (VANETs) I am fortunate to be advised by [Prof. Xinming Zhang](http://staff.ustc.edu.cn/~xinming/).
 
 
 
